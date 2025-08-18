@@ -28,7 +28,7 @@ ship_orientation = 'H'  # H = horizontal, V = vertical
 
 # --- Tkinter window ---
 root = tk.Tk()
-root.title("Python Battleship")
+root.title("Python Battleship AI")
 
 player_frame = tk.Frame(root)
 player_frame.grid(row=0, column=0, padx=20, pady=20)
